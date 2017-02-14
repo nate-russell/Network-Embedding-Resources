@@ -7,10 +7,11 @@ This repo is intended as a reference page for network embedding literature and c
 
 # Table
 Last Updated (2/14/17)
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 
 
