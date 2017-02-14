@@ -13,7 +13,7 @@ Last Updated (2/14/17)
 Paper |	Year |	# of Citations	| Weighted	| Directed	| Typed	| Typed Nodes
 --- | --- | --- | --- | ---| ---| ---|
 
-Distributed Large-scale Natural Graph Factorization |	13	| 29	| |  | |			
+Distributed Large-scale Natural Graph Factorization |	13	| 29	|  |  |  | 			
 Translating Embeddings for Modeling Multi-relational Data (TransE)	|13|	234				
 DeepWalk: Online Learning of Social Representations	|14	|158				
 Combining Two And Three-Way Embeddings Models for Link Prediction in Knowledge Bases (Tatec)	|15 |	7				
