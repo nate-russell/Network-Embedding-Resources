@@ -5,9 +5,12 @@ This repo is intended as a reference page for network embedding literature and c
 * links to data sets used in network embedding literature
 * links to reviews / presentations on network embedding
 
+# What is Network Embedding? Why should we care?
+![](/Images/Chang et al KDD 2015.png)
+The Above figure comes from Chang et all KDD 2015
+
 # Table
 Last Updated (2/14/17)
-
 
 
 Paper |	Year |	# of Citations	| Weighted	| Directed	| Typed	| Typed Nodes
@@ -37,8 +40,6 @@ Semi-Supervised Classification with Graph Convolutional Networks (GCN)	|16	|7
 Revisiting Semi-Supervised Learning with Graph Embeddings (Planetoid)	|16 |	10				
 Structural Deep Network Embedding	| 16	| 12				
 node2vec: Scalable Feature Learning for Networks	|16	 |27				
-
-
 
 
 # Ontology
